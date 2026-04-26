@@ -59,7 +59,7 @@ AI-focused full stack developer building modern, secure, and interactive web exp
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ## GitHub Stats
-![GitHub Metrics](./github-metrics.svg)
+![GitHub Metrics](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbirAzim&theme=github_dark)
 ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AbirAzim&theme=github_dark)
 ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AbirAzim&theme=github_dark)
 ![GitHub Streak](https://streak-stats.demolab.com?user=AbirAzim&theme=tokyonight&hide_border=true)
