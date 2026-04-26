@@ -39,14 +39,13 @@ AI-focused full stack developer building modern, secure, and interactive web exp
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbirAzim&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true)
+![GitHub Metrics](https://raw.githubusercontent.com/AbirAzim/AbirAzim.github.io/main/abirazim/github-metrics.svg)
+![GitHub Stats](https://github-readme-stats-alpha-virid.vercel.app/api?username=AbirAzim&show_icons=true&include_all_commits=true&count_private=true&include_orgs=true&rank_icon=github&theme=tokyonight&hide_border=true)
 ![GitHub Streak](https://streak-stats.demolab.com?user=AbirAzim&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbirAzim&layout=compact&langs_count=8&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats-alpha-virid.vercel.app/api/top-langs/?username=AbirAzim&layout=compact&langs_count=8&count_private=true&include_orgs=true&theme=tokyonight&hide_border=true)
 
 ## Random Dev Quote
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
-[![Profile Views](https://visitcount.itsvg.in/api?id=AbirAzim&icon=5&color=6)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![Profile Views](https://komarev.com/ghpvc/?username=AbirAzim&label=Profile%20views&color=4c1d95&style=flat)
